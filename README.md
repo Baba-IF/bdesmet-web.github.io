@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Baptiste Desmet - Website</title>
+	Baptiste Desmet - Website
 </head>
 <body>
 
