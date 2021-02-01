@@ -4,9 +4,7 @@
 <html>
 <head>
 	Baptiste Desmet - Website
-	
-	<br> A brand new website create by Baptiste Desmet and learn with <a href="https://w3schools.com"> w3schools</a> and <a href="https://openclassrooms.com"> 		Openclassrooms</a> 
-	</br>
+	<br> A brand new website create by Baptiste Desmet and learn with <a href="https://w3schools.com"> w3schools</a> and <a href="https://openclassrooms.com"> 		Openclassrooms</a></br>
 
 </head>
 <body>
