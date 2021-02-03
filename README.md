@@ -8,6 +8,8 @@
 
 </head>
 <body>
+	
+	Don't hesitate to check my website via Github Pages
 
 </body>
 </html>
