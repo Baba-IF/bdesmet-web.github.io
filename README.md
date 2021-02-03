@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	Baptiste Desmet - Website
+	<strong>Baptiste Desmet - Website</strong>
 	<br> A brand new website create by Baptiste Desmet and learn with <a href="https://w3schools.com"> w3schools</a> and <a href="https://openclassrooms.com"> 		Openclassrooms</a></br>
 
 </head>
