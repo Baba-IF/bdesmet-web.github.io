@@ -8,8 +8,6 @@
 
 </head>
 <body>
-	
-	Don't hesitate to check my website via Github Pages
-
+	Here is my Github Pages link : <a href="https://iffr-baba.github.io/bdesmet-web.github.io/"> Baptiste Desmet - WEB</a>
 </body>
 </html>
