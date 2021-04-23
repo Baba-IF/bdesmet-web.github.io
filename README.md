@@ -8,6 +8,6 @@
 
 </head>
 <body>
-	Here is my Github Pages link : <a href="https://iffr-baba.github.io/bdesmet-web.github.io/"> Baptiste Desmet - WEB</a>
+	Here is my Github Pages link : <a href="https://baptistedesmet.github.io/bdesmet-web.github.io/"> Baptiste Desmet - WEB</a>
 </body>
 </html>
