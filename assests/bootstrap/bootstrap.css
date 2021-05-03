@@ -202,8 +202,8 @@ sup {
 }
 
 a {
-  color: #0d6efd;
-  text-decoration: underline;
+  color: #fff;
+  text-decoration: none;
 }
 a:hover {
   color: #0a58ca;
@@ -3151,13 +3151,13 @@ textarea.form-control-lg {
 }
 
 .btn-outline-primary {
-  color: #0d6efd;
-  border-color: #0d6efd;
+  color: #fff;
+  border-color: #336699;
 }
 .btn-outline-primary:hover {
-  color: #fff;
-  background-color: #0d6efd;
-  border-color: #0d6efd;
+  color: #336699;
+  background-color: #FFCC33;
+  border-color: #FFCC33;
 }
 .btn-check:focus + .btn-outline-primary, .btn-outline-primary:focus {
   box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.5);
