@@ -1,1 +1,16 @@
-
+section {
+    color: none; 
+    padding: 50px;
+}
+.about {
+    color: #fff;
+    background: url("../img/bg-bg-bdesmet.png"); 
+    background-size: cover;
+}
+footer {
+    padding: 46px;
+    text-align: center;
+    color: #f0f9ff;
+    background-color: #336699;
+    margin-top: 1rem;
+}
