@@ -4745,10 +4745,10 @@ textarea.form-control-lg {
   flex-direction: column;
   justify-content: center;
   overflow: hidden;
-  color: #fff;
+  color: #336699;
   text-align: center;
   white-space: nowrap;
-  background-color: #0d6efd;
+  background-color: #FFCC33;
   transition: width 0.6s ease;
 }
 @media (prefers-reduced-motion: reduce) {
