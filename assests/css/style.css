@@ -8,7 +8,7 @@ section {
     background-size: cover;
 }
 .story {
-    color: #fff; 
+    color: none; 
     background-color: #336699;
     background-size: cover;
 }
@@ -21,6 +21,15 @@ section {
     color: #fff; 
     background-color: #336699;
     background-size: cover;
+}
+.card {
+    background-color: #336699;
+    border: 0;
+    color: #fff; 
+}
+.card-img {  
+    max-width: 100%;  
+    height: auto;  
 }
 footer {
     padding: 46px;
