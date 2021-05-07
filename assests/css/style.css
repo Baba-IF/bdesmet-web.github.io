@@ -1,36 +1,49 @@
 section {
-    color: none; 
+    color: none;
     padding: 50px;
 }
+
 .about {
     color: #fff;
-    background: url("../img/bg-bg-bdesmet.png"); 
+    background: url("../img/bg-bg-bdesmet.png");
     background-size: cover;
 }
+
 .story {
-    color: none; 
+    color: none;
     background-color: #336699;
     background-size: cover;
 }
+
 .skills {
-    color: #fff; 
+    color: #fff;
     background-color: #336699;
     background-size: cover;
 }
+
 .contact {
-    color: #fff; 
+    color: #fff;
     background-color: #336699;
     background-size: cover;
 }
+
 .card {
     background-color: #336699;
     border: 0;
-    color: #fff; 
+    color: #fff;
 }
-.card-img {  
-    max-width: 100%;  
-    height: auto;  
+
+.card-img {
+    max-width: 100%;
+    height: auto;
 }
+
+.project {
+    color: #fff;
+    background-color: #336699;
+    background-size: cover;
+}
+
 footer {
     padding: 46px;
     text-align: center;
